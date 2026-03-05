@@ -3,7 +3,7 @@ Hello, My name is Derico Liunardo.
 ---
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dericoliu_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/derliu_)
 
 ### 💻 Tech Stack:
 
