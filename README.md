@@ -5,7 +5,7 @@ Hello, My name is Derico Liunardo.
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/derliu_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derico-liunardo-78b1903b5/)
-### 💻 Tech Stack:
+###Tech Stacks:
 
 **Mobile Development**
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -27,7 +27,6 @@ Hello, My name is Derico Liunardo.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
----
 
-### 📊 GitHub Stats:
+###Streaks:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Deveco67&theme=radical-dark)](https://git.io/streak-stats)
